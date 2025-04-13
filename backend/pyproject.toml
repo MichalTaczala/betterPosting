@@ -1,0 +1,22 @@
+[project]
+name = "x-similar-posts"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.115.12",
+    "google-cloud-firestore>=2.20.1",
+    "markdown>=3.7",
+    "openai>=1.69.0",
+    "pandas>=2.2.3",
+    "pydantic>=2.11.0",
+    "pydantic-settings>=2.8.1",
+    "sendgrid>=6.11.0",
+    "snscrape>=0.7.0.20230622",
+    "stripe>=11.6.0",
+    "tweepy>=4.15.0",
+    "twikit>=2.3.3",
+    "uvicorn>=0.34.0",
+]
