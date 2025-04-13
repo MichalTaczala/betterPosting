@@ -1,3 +1,3 @@
-[https://](https://betterpost.ing/)
+[betterPosting](https://betterpost.ing/)
 
 
